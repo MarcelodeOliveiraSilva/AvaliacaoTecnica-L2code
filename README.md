@@ -59,7 +59,7 @@ O verbo ‘campten’ tem a seguinte conjugação:
                   - porre - verb porren, past tense, 3rd person
                   - corraem - verb corren, future tense, 4th person
                   - picel - not a verb case
-                  - oficina - not a verb case
+                  - oficina - verb oficinen, present tense, 3rd person
                   - param - verb paren, present tense, 6th person
 
 
